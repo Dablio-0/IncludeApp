@@ -8,4 +8,13 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="View\Main\" />
+    <Folder Include="View\Login\" />
+    <Folder Include="View\Shared\" />
+    <Folder Include="View\" />
+  </ItemGroup>
+
 </Project>
